@@ -1,6 +1,6 @@
 // =======Options START=======
 var authConfig = {
-  siteName: "The maxxx",
+siteName: "MOVIE DOWNLOAD HUB (HANIF)",
   version: "7.8.0",
   github_name: "tks18",
   github_repo: "gindex-v4-no-backend",
