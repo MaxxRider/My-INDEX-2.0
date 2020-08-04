@@ -1,3 +1,3 @@
 # My-INDEX
-just cope the code Maxx.index 
-past in Cloudflare
+<b>just copy the code Maxx.index and
+past in Cloudflare workers
