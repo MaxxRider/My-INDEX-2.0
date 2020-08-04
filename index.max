@@ -5,12 +5,12 @@ siteName: "MOVIE DOWNLOAD HUB (HANIF)",
   github_name: "tks18",
   github_repo: "gindex-v4-no-backend",
   favicon: "https://raw.githubusercontent.com/tks18/infozy/develop/favicon.ico",
-  client_id: "641887753425-2rnmi8d2pnneetl07rm104komgr2mbi3.apps.googleusercontent.com",
-  client_secret: "LJ8RQN0ItIGih5Y1KL70yiTb",
-  refresh_token: "1//0gUzHqV13tQbRCgYIARAAGBASNwF-L9IrOA_9mD6eSJ3R6-mih8t_AhLGXiaZVsUkRny73E7SMLC5BGFZTcE3Ur9Fg7BgtrDnkfI",
+  client_id: "your client ID",
+  client_secret: "your client secret",
+  refresh_token: "your Refresh token",
   roots: [
     {
-      id: "0AGNYgprNHgHBUk9PVA",
+      id: "folder ID",
       name: "Glory to Heaven",
       protect_file_link: true,
     }
